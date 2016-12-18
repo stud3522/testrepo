@@ -13,7 +13,6 @@
 
         <div>
             <p>Hallo SA</p>
-            <p>Hallo GitHub</p>
         </div>
 
     </body>
