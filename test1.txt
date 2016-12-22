@@ -2,4 +2,8 @@ hallo test
 
 Auch hier kommt noch eine Zeile hinzu
 
-hier kommt noch eine Zeile dazu
+
+Hier wurde eine Zeile geloescht...
+
+
+bla bli blu
