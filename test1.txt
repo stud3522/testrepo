@@ -1,10 +1,5 @@
-Diese Datei wurde bearbeitet
+Diese Datei wurde bearbeitet von mir
 
-hallo test!! hier ein Teil angepasst
+diese Zeiel soll durch Zusammenfuehren von mybranch mit master bla...
 
-Auch hier kommt noch eine aaaaaa Zeile hinzu
-
-hier kommt noch eine Zeile dazu
-
-
-ich aender etwas anderes um dies mit meld zu mergen
+ich merge
