@@ -1,10 +1,3 @@
-Ich ĥabe ebenfalls was geaendert
+diese Zeiel soll durch Zusammenfuehren von mybranch mit master bla...
 
-hallo test!! hier ein Teil angepasst
-
-Auch hier kommt noch eine Zeile hinzu
-
-hier kommt noch eine Zeile dazu
-
-
-ich aender etwas anderes um dies mit meld zu mergen
+ich merge
